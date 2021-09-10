@@ -1,0 +1,6 @@
+[Sound Theme]
+Name=Oxygen
+Directories=stereo
+
+[stereo]
+OutputProfile=stereo
